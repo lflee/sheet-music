@@ -2,7 +2,7 @@
 
 \header {
   title = "ð¨³åð¨³å¾åï¼ð±âð 𨳒，都唔 support unicode..."
-  composer = "å°æ"
+  composer = "又好似得喎…"
 }
 
 \score {
