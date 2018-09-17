@@ -1,11 +1,16 @@
+
+
 \header {
-  title = "𨳒唔𨳒得先？🐱‍👓"
-  composer = "小李"
+  title = "ð¨³åð¨³å¾åï¼ð±âð 𨳒，都唔 support unicode..."
+  composer = "å°æ"
 }
 
 \score {
   \relative c' {
     c4
+
+    a8 b c d e f g a |
+b r r4 r2
   }
 
   \layout {}
