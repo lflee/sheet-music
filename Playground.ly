@@ -1,6 +1,6 @@
 \header {
   title = "Playground"
-  composer = "峰"
+  composer = "uhej "
 }
 
 \score {
